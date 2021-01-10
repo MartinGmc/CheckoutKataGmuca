@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutKataGmuca", "CheckoutKataGmuca.csproj", "{6219ACE9-501B-4451-AAA7-0833F4E1DFBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutKataTest", "..\ChckoutKataTest\CheckoutKataTest.csproj", "{C9993277-F9DD-4C7E-B1E8-E4D1F96E7C51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6219ACE9-501B-4451-AAA7-0833F4E1DFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6219ACE9-501B-4451-AAA7-0833F4E1DFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6219ACE9-501B-4451-AAA7-0833F4E1DFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6219ACE9-501B-4451-AAA7-0833F4E1DFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9993277-F9DD-4C7E-B1E8-E4D1F96E7C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9993277-F9DD-4C7E-B1E8-E4D1F96E7C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9993277-F9DD-4C7E-B1E8-E4D1F96E7C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9993277-F9DD-4C7E-B1E8-E4D1F96E7C51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DFAD9C2-606E-407A-9538-95A3A0F8680C}
+	EndGlobalSection
+EndGlobal
